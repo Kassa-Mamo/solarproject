@@ -1,12 +1,21 @@
-# Solar Project Analysis
+# Solar Project
 
-This repository contains the analysis for the MoonLight Energy Solutions project, focusing on solar farm data from Benin, Sierra Leone, and Togo. The goal is to identify high-potential regions for solar installation, supporting the company’s sustainability goals through statistical analysis and exploratory data analysis (EDA).
+## Overview
+
+This repository contains the analysis for the MoonLight Energy Solutions project, focusing on solar farm data from Benin, Sierra Leone, and Togo. The task is to identify high-potential regions for solar installation, supporting the company’s sustainability goals through statistical analysis and Exploratory Data Analysis (EDA).
 
 ## Project Structure
-- `scripts/`: Contains Python scripts for analysis.
-- `data/`: Contains datasets used in the analysis.
-- `notebooks/`: Contains Jupyter notebooks for interactive analysis.
-- `tests/`: Contains tests for data processing and analysis.
+
+- **data/**: Contains raw data files.
+- **notebooks/**: Jupyter notebooks for EDA and analysis.
+- **scripts/**: Python scripts for the project’s data processing and analysis.
+- **src/**: Source code.
+- **tests/**: Unit tests for the project.
+- **README.md**: Project documentation.
+- **requirements.txt**: Required packages for the project.
 
 ## Installation
-To set up the project locally, you can install the dependencies listed in the `requirements.txt` file:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kassa-Mamo/solarproject.git
